@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 1
+  date_time: 2018-07-21 12:23:44
+  value: 1.5
+  cpf: MyString
+  credit_card: MyString
+
+two:
+  type: 1
+  date_time: 2018-07-21 12:23:44
+  value: 1.5
+  cpf: MyString
+  credit_card: MyString
